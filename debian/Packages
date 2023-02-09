@@ -28,3 +28,18 @@ Section: misc
 Priority: extra
 Description: Package Description
 
+Package: MsSsasOlapJsonDeployConsoleApp
+Version: 1.1.1
+Architecture: all
+Maintainer: MsSsasOlapJsonDeployConsoleApp
+Installed-Size: 36341
+Depends: dotnet-runtime-6.0
+Filename: ./MsSsasOlapJsonDeployConsoleApp.1.1.1.deb
+Size: 8612064
+MD5sum: 12e793e590dcec0fd4322539e27586a9
+SHA1: cc506fcbfa790a30edd78c5e113da254f90b3ca0
+SHA256: a829880d7912d855cf707cebc0cf1fbdd85862a5778bacdeb8ff3233c8ddc733
+Section: misc
+Priority: extra
+Description: Package Description
+
