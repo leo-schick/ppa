@@ -13,6 +13,21 @@ Section: misc
 Priority: extra
 Description: Package Description
 
+Package: BiReportEngineApp
+Version: 1.2.0
+Architecture: all
+Maintainer: BiReportEngineApp
+Installed-Size: 58001
+Depends: dotnet-runtime-6.0
+Filename: ./BiReportEngineApp.1.2.0.deb
+Size: 15892536
+MD5sum: 06a1808101be8d903f4ae9f2971c2e65
+SHA1: 3c8bb41e90f08a08049e6cb7db6cb352345fae20
+SHA256: b100db7975351ee07979cb18dae86afeb681242c8306f3503ca467dcfdf56d0b
+Section: misc
+Priority: extra
+Description: Package Description
+
 Package: MsSsasOlapJsonDeployConsoleApp
 Version: 1.1.0
 Architecture: all
