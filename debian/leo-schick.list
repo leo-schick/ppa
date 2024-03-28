@@ -1,1 +1,1 @@
-deb https://leo-schick.github.io/ppa/debian ./
+deb [signed-by=/etc/apt/keyrings/leo-schick-keyring.pgp] https://leo-schick.github.io/ppa/debian ./

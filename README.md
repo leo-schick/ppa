@@ -3,7 +3,7 @@ A PPA repository for my packages
 # Usage
 
 ```bash
-curl -SsL https://leo-schick.github.io/ppa/debian/KEY.gpg | sudo apt-key add -
+sudo curl -SsL -o /etc/apt/keyrings/leo-schick-keyring.pgp https://leo-schick.github.io/ppa/debian/leo-schick-keyring.pgp
 sudo curl -SsL -o /etc/apt/sources.list.d/leo-schick.list https://leo-schick.github.io/ppa/debian/leo-schick.list
 sudo apt update
 sudo apt install ...
